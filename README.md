@@ -12,3 +12,12 @@ Now by mixing this signal with a sine wave of frequency same as that of the tank
 
 ### Amplitude Block:
 Now we mirror the frequency block and connect its output to a Butterworth Salen Key low pass filter (A second order, active filter ) with a very low cut-off frequency so that the frequencies of audible range lie on the stop band. Since the frequencies lie on the rapidly falling slope of the graph, each frequency will be associated with a specific DC gain (or I guess attenuation would be a better word). Now that we assigned a voltage to a frequency we integrated it with a Voltage Controlled Amplifier using the VCA810 IC. Hence now we control the gain by varying the player's hand's distance from the antenna.
+
+
+### Project Veteran:
+i) VENU MADHAV P L
+
+##### Lets connect and have a Chat!💬
+<a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
+<a href="https://www.facebook.com/electronics.iitg/"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" width="78" height="50"></a>
+<a href="https://www.reddit.com/r/ElectronicsClubIITG/"><img src="https://www.pngkit.com/png/full/0-7757_reddit-logo-reddit-icon-png.png" width="45" height="45"></a>
