@@ -4,6 +4,9 @@
 Imagine making music by just waving your hand in the air, as if you are conjuring melodies from the air itself. That's the magic of the Theremin!. Invented in the 1920s, this electronic marvel produces ethereal sounds without sounds.
 
 The theremin operates through capacitance sensing and frequency mixing, comprising of pitch and volume circuits. The pitch and amplitude oscillator emit continuous electromagnetic fields altering the frequency and amplitude as the player's hand near the pitch antenna, generating higher pitches closer and lower ones farther away, the amplitude also changes depending on the distance of the player's hand from the amplitude antenna by taking advantage of the parasitic capacitance of the human body.
+
+![WhatsApp Image 2024-05-11 at 19 21 01_c787b093](https://github.com/Projects23-24/Theremin/assets/133627261/73382de1-57e6-4771-8310-ac378054b968)
+
 ## Methodology:
 ### Frequency Block:
 A high frequency Colpittis Oscillator of 400KHz built using LM358 opamp was used to detect the change in capacitance of the tank circuit by taking advantage of the parasitic capacitance of humans. The antenna acts as the first plate and the player's hand as the second, hence by changing the distance of the player's hand from the antenna, he changes the effective capacitance of the Colpitts oscillator tank circuit. It is designed to change its frequency by not more than 20KHz.
